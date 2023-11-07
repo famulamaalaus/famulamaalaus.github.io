@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>https://www.famulamaalaus.fi/</loc>
+        <priority>1.00</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.famulamaalaus.fi/"/>
+    </url>
+    <url>
+        <loc>https://www.famulamaalaus.fi/maalauspalvelut</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.famulamaalaus.fi/maalauspalvelut"/>
+    </url>
+    <url>
+        <loc>https://www.famulamaalaus.fi/hinnasto</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.famulamaalaus.fi/hinnasto"/>
+    </url>
+    <url>
+        <loc>https://www.famulamaalaus.fi/yhteystiedot</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.famulamaalaus.fi/yhteystiedot"/>
+    </url>
+    <url>
+        <loc>https://www.famulamaalaus.fi/julkisivumaalaukset</loc>
+        <priority>0.60</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.famulamaalaus.fi/julkisivumaalaukset"/>
+    </url>
+    <url>
+        <loc>https://www.famulamaalaus.fi/tiilikattojen-pinnoitukset</loc>
+        <priority>0.60</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.famulamaalaus.fi/tiilikattojen-pinnoitukset"/>
+    </url>
+</urlset>
